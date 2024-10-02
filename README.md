@@ -10,6 +10,6 @@ A Simple Music Player Using JavaScript
 
 ## Link
 
-### [Simple Music Player](https://anupam215769.github.io/Simple-Music-Player/)
+### [Simple Music Player](https://kashukartik.github.io/Simple-Music-Player/)
 
 
