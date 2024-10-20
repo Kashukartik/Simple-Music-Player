@@ -24,7 +24,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Simple-Music-Player.git
+   git clone https://github.com/kashukartik/Simple-Music-Player.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -38,7 +38,7 @@ You can view a live demo of the Simple Music Player at the following link:
 
 ### [Simple Music Player]
 ```bash
-https://anupam215769.github.io/Simple-Music-Player/
+https://kashukartik.github.io/Simple-Music-Player/
 ```
 
 ## Technologies Used
